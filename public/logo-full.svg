@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" fill="none" viewBox="0 0 360 80" role="img" aria-label="Antonio Antonelli - Data Analyst">
+  <defs>
+    <linearGradient id="aa-bg-full" x1="8" y1="8" x2="72" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2b7fff"/>
+      <stop offset="1" stop-color="#00c950"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 8)">
+    <rect width="64" height="64" rx="14" fill="url(#aa-bg-full)"/>
+    <rect x="13" y="38" width="9" height="13" rx="2" fill="#fff" fill-opacity=".55"/>
+    <rect x="27.5" y="30" width="9" height="21" rx="2" fill="#fff" fill-opacity=".75"/>
+    <rect x="42" y="21" width="9" height="30" rx="2" fill="#fff" fill-opacity=".95"/>
+    <polyline points="17.5,30 32,22 46.5,12.5" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="17.5" cy="30" r="2.6" fill="#fff"/>
+    <circle cx="32" cy="22" r="2.6" fill="#fff"/>
+    <circle cx="46.5" cy="12.5" r="3.6" fill="#fff"/>
+  </g>
+  <text x="90" y="40" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#1f2937">Antonio Antonelli</text>
+  <text x="91" y="62" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.5" fill="#155dfc">DATA ANALYST</text>
+</svg>
