@@ -14,7 +14,6 @@ Raccoglie i suoi progetti di analisi dati realizzati con **Excel, SQL, Python e 
 | Progetto | Strumenti | Repository |
 |---|---|---|
 | Analisi vendite Maven Toys Messico | Power BI, Power Query, DAX | [CAPSTONE-PROJECT](https://github.com/tonyanto99/CAPSTONE-PROJECT) |
-| Dashboard e-commerce Olist | Power BI | [ESERCITAZIONE-FINALE-POWER-BI](https://github.com/tonyanto99/ESERCITAZIONE-FINALE-POWER-BI) |
 | Analisi dati COVID-19 | Python, pandas, seaborn | [PYTHON-EXAM](https://github.com/tonyanto99/PYTHON-EXAM) |
 | Database vendite in SQL | MySQL | [ESERCITAZIONE-FINALE-M2](https://github.com/tonyanto99/ESERCITAZIONE-FINALE-M2) |
 | Strutture ricettive delle Marche | Excel | [ESERCIZIO-FINALE-M1](https://github.com/tonyanto99/ESERCIZIO-FINALE-M1) |
@@ -104,4 +103,4 @@ Il logo unisce barre crescenti e una linea di tendenza, simbolo dell'analisi dat
 ## Licenza
 
 © Antonio Antonelli. Tutti i diritti riservati.
-I dataset usati nei progetti appartengono ai rispettivi autori (Maven Analytics, Olist, Our World in Data).
+I dataset usati nei progetti appartengono ai rispettivi autori (Maven Analytics, Our World in Data).
